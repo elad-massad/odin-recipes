@@ -1,0 +1,33 @@
+ul {
+    list-style:inside;
+    margin-right: 20px;
+    
+}
+
+li {
+    font-size: 24px;
+    font-weight: 800;
+}
+#title{
+    background-image: url("images/cartoon-kitchen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+    width: auto;
+    height: 400px;
+}
+.lasagna.head{
+    background-image: url("images/cartoon-kitchen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+    width: auto;
+}
+#lasagna-img {
+    align-content: center;
+    width: auto;
+}
